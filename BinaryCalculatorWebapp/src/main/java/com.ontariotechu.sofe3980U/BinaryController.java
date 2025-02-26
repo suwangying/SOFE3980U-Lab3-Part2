@@ -50,5 +50,3 @@ public class BinaryController {
 		return "result";
 	}
 }
-
-}
